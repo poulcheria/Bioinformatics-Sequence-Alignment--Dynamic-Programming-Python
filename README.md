@@ -1,7 +1,7 @@
 # Bioinformatics Sequence Alignment - Dynamic Programming in Python (Needleman-Wunsch/Smith-Waterman)
 
 ## Overview
-This repository contains a Python script for performing sequence alignment using dynamic programming. The alignment can be either global, where the entire sequences are aligned, or local, where only a region of the sequences is aligned.
+This repository contains a Python script for performing sequence alignment using dynamic programming as part of my university project for the Computer Engineering and Informatics Department (CEID). The alignment can be either global, where the entire sequences are aligned, or local, where only a region of the sequences is aligned.
 
 ### Dynamic Programming
 Dynamic programming is an optimization technique that stores the solutions to overlapping subproblems and reuses them to avoid redundant calculations. In the context of sequence alignment, dynamic programming helps find the optimal alignment by considering all possible alignments and choosing the one with the best score.
